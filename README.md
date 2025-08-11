@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">Hi There 👋</h2>
 
-<!--
-**vantinfy/vantinfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My previous skills were all related to back-end development, but now I am trying more possible directions.
 
-Here are some ideas to get you started:
+Here are some brief introductions of my situation, and welcome to discuss with me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 The programming languages I use a lot are: Golang and Vue.
+- ✨ I'm interested in creative content, such as programming, writing, drawing, and photography.
+- 🔭 I've recently been interested in using Godot for game development.
+- 🌱 The skills being studied recently are GDScript and Rust.
+- 🤔 Sometimes, I also edit anime or gameplay videos because I like them.
+- 💬 I also take the time to update some daily essays and summaries of solutions to development problems.
+- 📫 How to reach me: vantinfy@gmail.com
